@@ -1,0 +1,69 @@
+/* modern_style.css */
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.gr-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.gr-button:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+.gr-textbox, .gr-file {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.gr-gallery {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.gr-container {
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.gr-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.gr-markdown {
+    color: #333;
+    font-size: 1.2em;
+}
