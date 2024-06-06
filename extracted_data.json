@@ -1,0 +1,62 @@
+{
+    "apellidos_jugador": "GUTIERREZ SANCHEZ",
+    "nombre_jugador": "JOSEP",
+    "genero_jugador": "Masc",
+    "fecha_de_nacimiento": "01/10/1998",
+    "club": "BENAHOARE",
+    "licencia": "CV56FAG",
+    "marked_fields": [
+        "Deficiencia de fuerza muscular",
+        "Lesión medular",
+        "Esclerosis múltiple",
+        "Informe Médico"
+    ],
+    "Codigo_CIE": [
+        {
+            "condicion": "G35",
+            "descripcion": "Esclerosis múltiple"
+        },
+        {
+            "condicion": "S14.1",
+            "descripcion": "Lesión traumática de la médula espinal cervical"
+        }
+    ],
+    "documentos_apoyo_diagnostico": [
+        "Informe Médico"
+    ],
+    "situacion_jugador": "Fluctuante",
+    "edad_inicio": "21",
+    "tratamientos_anteriores": "NO APLICA",
+    "tratamientos_actuales": "NO APLICA",
+    "tratamientos_futuros_previstos": "NO APLICA",
+    "detalles_adicionales": "SE HA REALIZADO UNA EVALUACION DE LA FUNCION MOTORA Y SENSORIAL, DETECTANDO UNA PERDIDA DE FUNCIONES ELEVADA",
+    "medicamentos_y_razon": "KESIMPTA",
+    "nombre_especialista": "JUAN PEREZ GONZALEZ",
+    "especialidad_medica": "NEUROLOGIA",
+    "numero_colegiado": "356NBH205856I",
+    "direccion": "CALLE HOYO GRANDE 24",
+    "ciudad": "MADRID",
+    "provincia": null,
+    "telefono": "648678546",
+    "correo_electronico": "JUAN_PGON@GMAIL.COM",
+    "fecha": "06/05/2024",
+    "firma": "si",
+    "sugerencia_tratamientos": [
+        {
+            "tratamiento": "fisioterapia",
+            "explicacion": "La fisioterapia puede ayudar a mejorar la movilidad y la fuerza muscular, así como a reducir el dolor y la espasticidad en pacientes con esclerosis múltiple y lesiones medulares."
+        }
+    ],
+    "sugerencia_farmacos": [
+        {
+            "farmaco": "KESIMPTA",
+            "efecto": "Kesimpta es un medicamento utilizado para tratar la esclerosis múltiple, ayudando a reducir la frecuencia de las recaídas y a retrasar la progresión de la discapacidad."
+        }
+    ],
+    "sugerencia_revision": [
+        {
+            "frecuencia_revision": "cada 6 meses",
+            "explicacion": "Se recomienda una revisión médica cada 6 meses para evaluar la progresión de la esclerosis múltiple y ajustar el tratamiento según sea necesario."
+        }
+    ]
+}
