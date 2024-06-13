@@ -1,5 +1,12 @@
 # ICD-10 Code Extraction from Medical Diagnosis PDF documents
 
+The project **CIE-10 Codes Extraction Tool** was developed by:
+- **David Cabestany** (Team Lead)
+- **Paula Ramos**
+- **Cristina Mondria**
+- **Vicent Cano**
+
+## Project Overview
 
 Welcome to our **ICD-10 Code Extraction Tool**! 
 
@@ -7,10 +14,6 @@ This application helps you extract data from PDF documents using a Vision model 
 Additionally, it offers a virtual assistant to answer your questions about ICD-10 codes powered by RAG system with FAISS and Longchain.
 
 *Please note that the assistant is in beta, so the database indexed just contain a short list of conditions. Too check the list find it in the bottom of this README file*
-
-**Tool developed by David Cabestany (Team Lead), Paula Ramos, Cristina Mondria and Vicent Cano**
-
-
 
 
 ## Features
